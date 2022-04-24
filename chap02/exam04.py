@@ -1,3 +1,5 @@
+# 문자열 포매팅
+
 from ctypes.test.test_pickling import name
 print("I eat %d apples."  % 3)
 

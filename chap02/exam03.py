@@ -1,3 +1,5 @@
+# 문자열 연산
+
 head = "Python"
 tail = " is fun!"
 print(head + tail)
@@ -20,6 +22,8 @@ print(len(a))
 a = "You need python"
 print(a)
 print(len(a))
+
+# 문자열 인덱싱과 슬라이싱
 
 a = "Life is too short, You need Python"
 print(a[3])

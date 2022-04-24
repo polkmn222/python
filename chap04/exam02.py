@@ -1,3 +1,5 @@
+# 입력과 출력
+
 #a = input()
 """
 Life is too short, you need python

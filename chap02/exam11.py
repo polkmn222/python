@@ -1,3 +1,5 @@
+# 불 자료형
+
 a = True
 b = False
 

@@ -1,3 +1,5 @@
+# 문자열 관련 함수
+
 a = "hobby"
 print(a.count('b'))
 

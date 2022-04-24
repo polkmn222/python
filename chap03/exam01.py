@@ -1,3 +1,5 @@
+# if문
+
 money = True
 if money:
     print("택시를 타고가라")
@@ -68,6 +70,8 @@ else:
         print('택시를 타고가라')
     else:
         print('걸어가라') 
+
+# elif문
 
 pocket = ['paper', 'cellphone']
 card = True

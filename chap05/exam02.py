@@ -1,3 +1,5 @@
+# 생성자
+
 class FourCal:
     def setdata(self, first, second):
         self.first = first
@@ -100,6 +102,8 @@ print(a.second)
 
 print(a.add())
 print(a.sub())
+
+# 클래스 상속
 
 class MoreFourCal(FourCal):
     pass

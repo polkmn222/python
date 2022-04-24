@@ -1,3 +1,5 @@
+# 클래스
+
 result = 0
 
 def add(num):

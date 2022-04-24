@@ -1,3 +1,5 @@
+# 문자열
+
 "Hello World"
 
 'Python is fun'
